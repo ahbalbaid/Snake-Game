@@ -1,4 +1,4 @@
-# Snake-Game
+# Snake-Game 🐍
 This is the first game I've ever made using pygame and python, and it's a continuation of my journey into game development. 
 Codebasics taught me how to make this game.
 
